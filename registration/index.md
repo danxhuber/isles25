@@ -54,8 +54,9 @@ Online participation is free but registration is required to participate online.
   <input type="hidden" name="hosted_button_id" value="CSKCN8GN8NZBE">
   <table>
     <tr><td><input type="hidden" name="on0" value="Registration Fee"><font face="Arial"><b>Registration Fee</b></font></td></tr><tr><td><select name="os0">
-	  <option value="Standard">Standard $300.00 USD</option>
+	  <option value="Standard">Early $300.00 USD</option>
 	  <option value="Standard + Dinner">Standard +1 Dinner $400.00 USD</option>
+	  <option value="Dinner ticket only"> Dinner ticket only $100.00 USD</option>
 	  <!-- <option value="Early-Career">Early-Career $200.00 USD</option> -->
     </select> </td>
     </tr>
