@@ -1,26 +1,23 @@
-title: Conference 2020
-preposition: ''
-description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
+title: TASC7/KASC14
+preposition: at
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://tasc.ifa.hawaii.edu/" # the base hostname & protocol for your site, e.g. https://example.com
+
+theme: jekyll-theme-conference
 
 # Build settings
 markdown: kramdown
 sass:
   style: compressed
 
-# Exclude from processing
+# Additional exclude from processing
 exclude:
   - .github/
-  - venv/
   - README.md
   - LICENSE.md
   - REDISTRIBUTED.md
-  - screenshot.png
-  - jekyll-theme-conference.gemspec
   - purgecss.config.js
-  - _config.example.yml
 
 # Collections and their defaults
 collections:
@@ -51,22 +48,134 @@ defaults:
     values:
       layout: room
 
-# Theme default values
+
 conference:
+
+  # Language
   lang: en
+
+  # Show theme errors:
   show_errors: True
 
+  # Navigation bar
+  navigation:
+    logo:
+      name: TASC7/KASC14
+      img: 'logo.png'
+      url: 'https://events.ifa.hawaii.edu/tasc'
+    logo2:
+      name: WDRC
+      img: 'wdrc.jpg'
+      url: 'https://whitedwarf.org/'
+    links:
+      - name: Logistics
+        relative_url: /logistics/
+      # - name: Registration
+      #   relative_url: /registration/
+      - name: Program
+        relative_url: /program/
+      - name: SOC/LOC
+        relative_url: /soc/
+      # - name: Talks
+      #   relative_url: /talks/
+      # - name: Speakers
+      #   relative_url: /speakers/
+      # - name: Location
+      #   relative_url: /location/
+      # - name: Previous meetings
+      #   menu:
+      #     - name: 2020 (current)
+      #       disabled: true
+      #     - name: 2019
+      #       relative_url: /2019/
+      #     - name: 2018
+      #       relative_url: /2018/
+
+  # Link Preview for Sharing
   link_preview:
+    # also adapt "preposition" property at top for more meaningful descriptions
     disable: false
+    img:
+      twitter: 'twitter_preview.png'      # inside /assets/images/
+      open_graph: 'facebook_preview.png'  # inside /assets/images/
+
+  # Main landing page
+  main:
+    # logo:
+    #   img: 'logo.png'
+    links:
+      # - name: Registration
+      #   relative_url: /registration/
+      - name: Logistics
+        relative_url: /location/
+
+  # Information boxes
+  # info_bars:
+  #   - title: Registration is now open!
+  #     color: primary
+  #     main_only: true
+  #     text: |
+  #       We are pleased to announce that registration for TASC7 is now active. Please carefully read the information on the registration page for instructions on abstract submission, payment, and accomodation.
+
+  # Live indications
+  live:
+    date: 01.01.2020
+    timezone: GMT+1
+    stop:       240  # in minutes
+    streaming:
+      enable: true
+      pause:     60  # in minutes
+      prepend:    5  # in minutes
+      extend:     5  # in minutes
+    demo:
+      enable: false
+      duration: 300  # in seconds
+      pause:     10  # in seconds
+
+  map:
+    # Initial map center point
+    home_coord: 21.299065724566425, -157.81779329925254
+    # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+    # The following do match the Bootstrap design not too badly:
+    #   - Hydda.Full
+    #   - Thunderforest.Neighbourhood
+    #   - Esri.WorldTopoMap
+    map_provider: "OpenStreetMap.Mapnik"
+    default_zoom: 5
+
+  talks:
+    # Talk categories
+    main_categories:
+      - name: Asteroseismology
+        color: info
+      - name: Exoplanets
+        color: success
+      - name: Galactic astronomy
+        color: warning
+
+    # Hide icons on talk overview page
+    hide_icons: false
 
   speakers:
+    # Show first and last name
     show_firstname: true
 
   location:
+    # Disable links to locations
+    hide: true
+    # URL of location / room overview page
     url: '/location'
+    # Main page title shown on location/room navigation bar
+    navbar_title: 'Location'
+    # Show map on location main page
     map: true
 
   program:
+    # URL of program page
     url: '/program'
-    time_steps: 15
+
+    # Time steps in program table
+    time_steps: 15 # in minutes
+
+    # Show intermediary time steps (next to full hours)
     show_alltimes: true

@@ -1,18 +1,22 @@
 {% include partials/header.html %}
 
+
 <div class="jumbotron">
-  <h1 class="display-3">
-    <!-- {% if site.conference.main.logo.img %} -->
-    <img src="{{ site.conference.main.logo.img | prepend: '/assets/images/' | prepend: site.baseurl }}"
-      class="w-75 d-none d-md-inline" alt="{{ site.title }}" />
-    <img src="{{ site.conference.main.logo.img | prepend: '/assets/images/' | prepend: site.baseurl }}"
-      class="w-100 d-md-none" alt="{{ site.title }}" />
-    <!-- {% elsif page.title %}
-        {{ page.title }}
-      {% else %}
-        {{ site.title }}
-      {% endif %} -->
-  </h1>
+
+  <!-- <div class="row">
+    <div class="rounded col-md-7">
+      <div>
+        <img alt="Web Studio" class="img-fluid" src="banner-1.png" />
+      </div>
+    </div>
+    <div class="col-md-6 col-lg-5 ml-auto d-flex align-items-center mt-4 mt-md-0">
+      <div>
+        <p>Align image and text in same line in bootstrap</p>
+      </div>
+    </div>
+  </div> -->
+
+
   <!-- {% if site.description != none %}
   <p class="lead">
     {{ site.description | markdownify | replace: '
@@ -21,7 +25,7 @@
   </p>
   {% endif %} -->
 
-  <hr class="my-4">
+  <!-- <hr class="my-4"> -->
 
   {{ content }}
 
@@ -89,5 +93,5 @@
     {% endif %}
 
   </div>
-
-  {% include partials/footer.html %}
+</div>
+{% include partials/footer.html %}

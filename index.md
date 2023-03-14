@@ -1,6 +1,39 @@
 ---
-layout: home
+layout: homealt
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ultricies interdum lacus quis gravida. Vestibulum eget arcu in dui facilisis luctus. Curabitur rhoncus nibh non neque viverra facilisis. Nam nec placerat augue, ut mollis ante. Morbi pulvinar iaculis felis eget pretium. Duis euismod, risus non placerat accumsan, mi nisl euismod nibh, quis finibus ante mauris eu odio.
 
-Nullam a nunc felis. Aenean nec metus sed elit feugiat elementum sed ut quam. Maecenas dignissim augue nec sollicitudin sagittis. Donec sagittis dolor non tincidunt eleifend. Donec vel nibh et leo pretium dignissim. Nulla vehicula arcu velit, ac facilisis turpis fermentum ac. Integer at tempus sem, in vehicula magna. Ut tempor est nec nisl imperdiet porttitor sit amet maximus massa.
+
+<div class="alert alert-success" role="alert">
+  <h4 class="alert-heading">Registration is now open!</h4>
+  <p>We are pleased to announce that registration for TASC7 is now active. Please carefully read the information on the registration page for instructions on abstract submission, payment, and accomodation.</p>
+</div>
+
+![](banner-1.png)
+
+<!-- <img src="banner-1.png" alt="alt text" width="100%" /> -->
+
+*Over the past decades, asteroseismology has been established as one of the most powerful tools to study stars and exoplanets in our galaxy. With TESS well into its second extended mission, this workshop will celebrate the ongoing successes from the exploration of Kepler/K2 and TESS data, and discuss future challenges and opportunities. Expected topics broadly include asteroseismology/stellar astrophysics, exoplanet science and galactic astronomy.*
+
+The workshop will take place from 17-21 July 2023 at the University of Hawaiʻi at Mānoa campus in Honolulu, Hawaiʻi. Participation will be possible online and in-person.
+
+
+
+ <!-- &nbsp; -->
+
+
+<div class="alert alert-dark" role="alert">
+  <h4 class="alert-heading">Key dates</h4>
+
+  <hr>
+  <p>May 1 2023: Deadline for student registration waiver applications</p>
+  <p> May 15 2023: Deadline for booking on-campus housing, contributed talk abstracts & Early registration payment closes</p>
+  <p>June 15 2023: Deadline for poster abstracts & Standard registration payment closes</p>
+  <p>July 10 2023: Late registration payment & online-only registration closes</p>
+<p>July 17-21 2023: TASC7/KASC14 workshop</p>
+  <hr>
+</div>
+
+
+#### Contact
+
+To contact the LOC, please email tasc7@hawaii.edu
