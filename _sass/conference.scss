@@ -77,6 +77,14 @@ ul.btn-group {
 
 // Custom Styling
 
+body {
+    min-height: 100vh;
+    background-image: url("/assets/images/semitransparent.svg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+}
+
 // General
 
 //   Keep images in container
