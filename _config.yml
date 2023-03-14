@@ -107,7 +107,7 @@ conference:
       # - name: Registration
       #   relative_url: /registration/
       - name: Logistics
-        relative_url: /location/
+        relative_url: /logistics/
 
   # Information boxes
   # info_bars:
