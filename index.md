@@ -8,7 +8,7 @@ layout: homealt
   <p>We are pleased to announce that registration for TASC7 is now active. Please carefully read the information on the registration page for instructions on abstract submission, payment, and accomodation.</p>
 </div>
 
-![](banner-1.png)
+![](/assets/images/banner-1.png)
 
 <!-- <img src="banner-1.png" alt="alt text" width="100%" /> -->
 
