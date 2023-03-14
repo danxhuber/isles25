@@ -65,7 +65,7 @@ conference:
       url: 'https://ifa.hawaii.edu/'
     logo2:
       name: WDRC
-      img: 'wdrc.jpg'
+      img: 'wdrc.png'
       url: 'https://whitedwarf.org/'
     links:
       - name: Logistics

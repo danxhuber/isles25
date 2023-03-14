@@ -48,7 +48,6 @@ Cancellation requests must be submitted via email to the LOC. Full refunds for r
 Online participation is free but registration is required to participate online. Online participants can submit both contributed talk and poster abstracts. A Slack/Discord workspace will be setup for online interactions and Q&A. In-person talks from the auditorium will be streamed live for online participants.   
 
 ##  Payment
-<html>
 <table bgcolor="#cccccc" cellpadding="5" border="0"><tr><td>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type="hidden" name="cmd" value="_s-xclick">
@@ -56,7 +55,8 @@ Online participation is free but registration is required to participate online.
   <table>
     <tr><td><input type="hidden" name="on0" value="Registration Fee"><font face="Arial"><b>Registration Fee</b></font></td></tr><tr><td><select name="os0">
 	  <option value="Standard">Standard $300.00 USD</option>
-	  <!-- <option value="Early-Career">Early-Career $225.00 USD</option> -->
+	  <option value="Standard + Dinner">Standard +1 Dinner $400.00 USD</option>
+	  <!-- <option value="Early-Career">Early-Career $200.00 USD</option> -->
     </select> </td>
     </tr>
     <tr><td><input type="hidden" name="on1" value="Participant Name"><font face="Arial"><b>Participant Name</b></font></td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
@@ -66,5 +66,5 @@ Online participation is free but registration is required to participate online.
   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 </td></tr></table>
-</html>
+
 
