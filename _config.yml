@@ -60,9 +60,9 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: TASC7/KASC14
+      name: IFA
       img: 'logo.png'
-      url: 'https://events.ifa.hawaii.edu/tasc'
+      url: 'https://ifa.hawaii.edu/'
     logo2:
       name: WDRC
       img: 'wdrc.jpg'
