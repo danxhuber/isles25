@@ -1,7 +1,8 @@
 <nav class="navbar navbar-expand-md navbar-light bg-light mb-3">
   <div class="container">
 
-    <a href="{{ site.baseurl }}/" class="navbar-brand navbar-logo"><video style="width: 60px;" src="{{ site.baseurl }}/assets/images/small.webm" autoplay muted></a>
+    <a href="{{ site.baseurl }}/" class="navbar-brand navbar-logo"><video style="width: 60px;"
+        src="{{ site.baseurl }}/assets/images/small.webm" autoplay muted></a>
 
     <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
@@ -93,18 +94,19 @@
     </div>
     {%- endif %}
 
-    {%- if site.conference.navigation.logo2 %}
-    <div class="navbar-brand navbar-logo mr-0 w-0">
+    <!-- {%- if site.conference.navigation.logo2 %}
+    <div class="navbar-brand navbar-logo mr-5 overflow-hidden">
       <a href="{{ site.conference.navigation.logo2.url }}">
         {%- if site.conference.navigation.logo2.img %}
         <img src="{{ site.conference.navigation.logo2.img | prepend: '/assets/images/' | prepend: site.baseurl }}"
-          class="align-right" alt="{{ site.conference.navigation.logo2.name }}" width="50" height="60" />
+          class="align-right" alt="{{ site.conference.navigation.logo2.name }}" width="50" height="60"
+          style="padding-left: 10px;" />
         {%- else %}
         {{ site.conference.navigation.logo2.name }}
         {%- endif %}
       </a>
     </div>
-    {%- endif %}
+    {%- endif %} -->
 
   </div>
 </nav>

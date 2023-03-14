@@ -2,15 +2,15 @@
 layout: homealt
 ---
 
-
-<div class="alert alert-success" role="alert">
+<!-- <div class="alert alert-success" role="alert">
   <h4 class="alert-heading">Registration is now open!</h4>
   <p>We are pleased to announce that registration for TASC7 is now active. Please carefully read the information on the registration page for instructions on abstract submission, payment, and accomodation.</p>
-</div>
+</div> -->
 
-![](/assets/images/banner-1.png)
+<img src="assets/images/banner-1.png" width="100%" class="rounded-top"/>
 
-<!-- <img src="banner-1.png" alt="alt text" width="100%" /> -->
+
+----
 
 *Over the past decades, asteroseismology has been established as one of the most powerful tools to study stars and exoplanets in our galaxy. With TESS well into its second extended mission, this workshop will celebrate the ongoing successes from the exploration of Kepler/K2 and TESS data, and discuss future challenges and opportunities. Expected topics broadly include asteroseismology/stellar astrophysics, exoplanet science and galactic astronomy.*
 
@@ -21,7 +21,7 @@ The workshop will take place from 17-21 July 2023 at the University of Hawaiʻi 
  <!-- &nbsp; -->
 
 
-<div class="alert alert-dark" role="alert">
+<div class="alert alert-info" role="alert">
   <h4 class="alert-heading">Key dates</h4>
 
   <hr>

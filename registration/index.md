@@ -5,9 +5,10 @@ layout: default
 # Registration
 ----
 
-<button type="button" class="btn btn-primary">Registration and abstract submission</button>
+<button type="button" class="btn btn-primary btn-lg">Registration and abstract submission</button>
 
 <!-- <button name="button" onclick="https://forms.office.com/r/WieQBNy0dV">Registration and abstract submission</button> -->
+----
 
 - [Registration](#registration)
   - [Registration Fees](#registration-fees)
@@ -16,6 +17,7 @@ layout: default
   - [Online participation](#online-participation)
   - [Payment](#payment)
 
+----
 
 ## Registration Fees
 ***Early Registration*** (Before May 12): $300
@@ -33,7 +35,11 @@ The in-person registration fee includes receptions, coffee breaks, lunches, and 
 Full payment of the registration fee is required prior to the start of the conference for on-site participation. 
 
 ## Financial support
+
+
 A limited number of registration fee waivers are available for students, sponsored by the University of Hawaiʻi and White Dwarf Research Corporation. To apply, please send a brief justification (1 paragraph maximum) and letter of support from your advisor (1-page maximum) via email to the LOC (tasc7@hawaii.edu) by May 1 2023. To be eligible, students must currently be enrolled in a PhD program and present a result (poster or talk) at the conference.
+
+<button type="button" class="btn btn-primary" href="https://forms.office.com/r/1eqCi4UfaD">Apply for financial support</button>
 
 ## Cancellation policy
 Cancellation requests must be submitted via email to the LOC. Full refunds for registration fees will be provided for cancellations received before July 10 2023. The cancellation policy for on-campus housing can be found on the Logistics page.   

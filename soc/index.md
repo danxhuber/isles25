@@ -2,6 +2,9 @@
 layout: page
 ---
 
+To contact the organizers, please email <a href="mailto:tasc7@hawaii.edu">tasc7@hawaii.edu</a>
+
+
 ### SOC
 
 - Victoria Antoci (DTU Space)
@@ -25,3 +28,7 @@ layout: page
 - Joel Ong (UH)
 - Nick Saunders (UH)
 - Jennifer van Saders (UH, Co-chair)
+  
+----
+
+Website made with ❤️ by Dan Hey and Joel Ong.
