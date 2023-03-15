@@ -11,6 +11,10 @@ layout: homealt
 
 ----
 
+*The TASC7/KASC14 workshop will be dedicated to the celebration of the 60th birthday of Hans Kjeldsen, the one of the founders of the Kepler/TESS Asteroseismic Science Consortium.*
+
+----
+
 The workshop will take place from 17-21 July 2023 at the University of Hawaiʻi at Mānoa campus in Honolulu, Hawaiʻi. Participation will be possible online and in-person.
 
 

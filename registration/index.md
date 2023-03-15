@@ -15,14 +15,14 @@ layout: default
   - [Financial support](#financial-support)
   - [Cancellation policy](#cancellation-policy)
   - [Online participation](#online-participation)
-  - [Payment](#payment)
+  - [Payment for in-person registration](#payment-for-in-person-registration)
 
 ----
 
 ## Registration Fees
 
-- ***Early Registration*** (Before May 12): $300  
-- ***Standard Registration*** (May 13-June 15): $350  
+- ***Early Registration*** (Before May 15): $300  
+- ***Standard Registration*** (May 16-June 15): $350  
 - ***Late Registration*** (June 16-July 10): $400  
 - ***Dinner ticket*** (for accompanying guests): $100
 
@@ -47,7 +47,7 @@ Cancellation requests must be submitted via email to the LOC (<tasc7@hawaii.edu>
 
 Online participation is free but registration is required to participate online. Online participants can submit both contributed talk and poster abstracts. A Slack/Discord workspace will be setup for online interactions and Q&A. In-person talks from the auditorium will be streamed live for online participants.   
 
-##  Payment
+##  Payment for in-person registration
 
 <table bgcolor="#cccccc" cellpadding="5" border="0"><tbody><tr><td>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
