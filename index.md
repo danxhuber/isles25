@@ -25,10 +25,10 @@ The workshop will take place from 17-21 July 2023 at the University of Hawaiʻi 
   <h4 class="alert-heading">Key dates</h4>
 
   <hr>
-  <p>May 1 2023: Deadline for student registration waiver applications</p>
-  <p> May 15 2023: Deadline for booking on-campus housing, contributed talk abstracts & Early registration payment closes</p>
+  <p>May 1 2023: Deadline for student registration waiver applications & on-campus housing requests</p>
+  <p> May 15 2023: Deadline for contributed talk abstracts & Early registration payment closes </p>
   <p>June 15 2023: Deadline for poster abstracts & Standard registration payment closes</p>
-  <p>July 10 2023: Late registration payment & online-only registration closes</p>
+  <p>July 3 2023: Late registration payment & online-only registration closes</p>
 <p>July 17-21 2023: TASC7/KASC14 workshop</p>
   <hr>
 </div>
