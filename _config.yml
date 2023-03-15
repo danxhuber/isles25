@@ -74,8 +74,8 @@ conference:
         relative_url: /registration/
       - name: Program
         relative_url: /program/
-      - name: SOC/LOC
-        relative_url: /soc/
+      - name: Committee
+        relative_url: /committee/
       # - name: Talks
       #   relative_url: /talks/
       # - name: Speakers
