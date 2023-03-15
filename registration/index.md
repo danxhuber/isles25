@@ -30,19 +30,19 @@ layout: default
 
 The in-person registration fee includes receptions, coffee breaks, lunches, and the conference dinner. Dinner tickets for accompanying guests can be added to the registration fee. Online participation is free.
 
-**Accommodation is not included in the registration fee.** A limited block of on-campus housing has been allocated for conference attendees. See the housing page for more details. 
+**Accommodation is not included in the registration fee.** A limited block of on-campus housing has been allocated for conference attendees. See the housing page ADD LINK for more details. 
 
 Full payment of the registration fee is required prior to the start of the conference for on-site participation. 
 
 ## Financial support
 
 
-A limited number of registration fee waivers are available for students, sponsored by the University of Hawaiʻi and White Dwarf Research Corporation. To apply, please send a brief justification (1 paragraph maximum) and letter of support from your advisor (1-page maximum) via email to the LOC (tasc7@hawaii.edu) by May 1 2023. To be eligible, students must currently be enrolled in a PhD program and present a result (poster or talk) at the conference.
+A limited number of registration fee waivers are available for students, sponsored by the University of Hawaiʻi and White Dwarf Research Corporation. To be eligible, students must currently be enrolled in a PhD program and present a result (poster or talk) at the conference. 
 
 <button type="button" class="btn btn-primary" href="https://forms.office.com/r/1eqCi4UfaD">Apply for financial support</button>
 
 ## Cancellation policy
-Cancellation requests must be submitted via email to the LOC. Full refunds for registration fees will be provided for cancellations received before July 10 2023. The cancellation policy for on-campus housing can be found on the Logistics page.   
+Cancellation requests must be submitted via email to the LOC (tasc7@hawaii.edu). Full refunds for registration fees will be provided for cancellations received before July 3 2023. Refunds after July 3 may considered on a case-by-case basis. The cancellation policy for on-campus housing can be found on the Logistics ADD LINK page.   
 
 ## Online participation
 Online participation is free but registration is required to participate online. Online participants can submit both contributed talk and poster abstracts. A Slack/Discord workspace will be setup for online interactions and Q&A. In-person talks from the auditorium will be streamed live for online participants.   
