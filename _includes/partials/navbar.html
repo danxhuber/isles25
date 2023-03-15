@@ -82,11 +82,11 @@
     </div>
 
     {%- if site.conference.navigation.logo %}
-    <div class="navbar-brand navbar-logo mr-0 w-25 text-right overflow-hidden">
+    <div class="navbar-brand navbar-logo mr-0 text-right overflow-hidden">
       <a href="{{ site.conference.navigation.logo.url }}">
         {%- if site.conference.navigation.logo.img %}
         <img src="{{ site.conference.navigation.logo.img | prepend: '/assets/images/' | prepend: site.baseurl }}"
-          class="align-right" alt="{{ site.conference.navigation.logo.name }}" />
+          class="align-right d-none d-lg-block" alt="{{ site.conference.navigation.logo.name }}" />
         {%- else %}
         {{ site.conference.navigation.logo.name }}
         {%- endif %}
@@ -99,7 +99,7 @@
       <a href="{{ site.conference.navigation.logo2.url }}">
         {%- if site.conference.navigation.logo2.img %}
         <img src="{{ site.conference.navigation.logo2.img | prepend: '/assets/images/' | prepend: site.baseurl }}"
-          class="align-right" alt="{{ site.conference.navigation.logo2.name }}" width="50" height="50"
+          class="align-right d-none d-lg-block" alt="{{ site.conference.navigation.logo2.name }}" width="50" height="50"
           style="padding-left: 0px;" />
         {%- else %}
         {{ site.conference.navigation.logo2.name }}
