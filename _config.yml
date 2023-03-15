@@ -70,8 +70,8 @@ conference:
     links:
       - name: Logistics
         relative_url: /logistics/
-      # - name: Registration
-      #   relative_url: /registration/
+      - name: Registration
+        relative_url: /registration/
       - name: Program
         relative_url: /program/
       - name: SOC/LOC
@@ -82,14 +82,16 @@ conference:
       #   relative_url: /speakers/
       # - name: Location
       #   relative_url: /location/
-      # - name: Previous meetings
-      #   menu:
-      #     - name: 2020 (current)
-      #       disabled: true
-      #     - name: 2019
-      #       relative_url: /2019/
-      #     - name: 2018
-      #       relative_url: /2018/
+      - name: Previous meetings
+        menu:
+          - name: 2023 (current)
+            disabled: true
+          - name: 2022
+            absolute_url: "https://fys.kuleuven.be/ster/events/conferences/2020/tasc6"
+          - name: 2019
+            absolute_url: "https://web.mit.edu/tasc5/registration.html"
+          - name: 2018
+            absolute_url: "https://conferences.au.dk/tasc4"
 
   # Link Preview for Sharing
   link_preview:
@@ -104,8 +106,8 @@ conference:
     # logo:
     #   img: 'logo.png'
     links:
-      # - name: Registration
-      #   relative_url: /registration/
+      - name: Registration
+        relative_url: /registration/
       - name: Logistics
         relative_url: /logistics/
 
