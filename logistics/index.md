@@ -10,6 +10,7 @@ map: true
   - [Location and Maps](#location-and-maps)
     - [Conference venue](#conference-venue)
     - [Air travel](#air-travel)
+    - [Visa support](#visa-support)
     - [Reception and dinner venues](#reception-and-dinner-venues)
   - [Accomodation](#accomodation)
     - [On-campus housing](#on-campus-housing)
@@ -32,7 +33,9 @@ Talks will be held in the 300-seat auditorium of Department of Art and Art Histo
 
 Conference participants should plan to travel to Daniel K. Inouye International Airport (HNL).  The airport is approximately 8 miles or 12 kilometers from UH Mānoa and Waikīkī. Typical taxi or rideshare fares from the airport to the city range between $20-$40.
 
-Participants requiring supporting letters for a visa to enter the United States of America should contact the LOC (<tasc7@hawaii.edu>). 
+### Visa support
+
+Participants requiring supporting letters for a visa to enter the United States of America should indicate this on the registration form
 
 ### Reception and dinner venues
 
@@ -79,4 +82,6 @@ Email: <housing@eastwestcenter.org>
 
 
 ### Hotel accomodation
-The majority of hotels on the island of Oʻahu are located in and around Waikīkī, approximately 3 km or 2mi from UH campus. Transportation options from Waikīkī to UH Mānoa and back include [public transport](http://www.thebus.org/), rideshare services (Uber/Lyft) and [bicycle rentals](https://gobiki.org/). **Note that Airbnb rentals are forbidden outside of Waikīkī.**
+The majority of hotels on the island of Oʻahu are located in and around Waikīkī, approximately 3 km or 2mi from UH campus. **Note that Airbnb rentals are not allowed in most areas outside of Waikīkī.**
+
+Transportation options from Waikīkī to UH Mānoa and back include [public transport](http://www.thebus.org/), rideshare services (Uber/Lyft) and [bicycle rentals](https://gobiki.org/). When using public transport we highly recommend to use the [bus tracking app](http://www.thebus.org/). 
