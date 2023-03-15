@@ -84,4 +84,4 @@ Email: <housing@eastwestcenter.org>
 ### Hotel accomodation
 The majority of hotels on the island of Oʻahu are located in and around Waikīkī, approximately 3 km or 2mi from UH campus. **Note that Airbnb rentals are not allowed in most areas outside of Waikīkī.**
 
-Transportation options from Waikīkī to UH Mānoa and back include [public transport](http://www.thebus.org/), rideshare services (Uber/Lyft) and [bicycle rentals](https://gobiki.org/). When using public transport we highly recommend to use the [bus tracking app](http://www.thebus.org/). 
+Transportation options from Waikīkī to UH Mānoa and back include [public transport](http://www.thebus.org/), rideshare services (Uber/Lyft) and [bicycle rentals](https://gobiki.org/). When using public transport we highly recommend to use the [bus tracking app](http://m.thebus.org/default.asp). 

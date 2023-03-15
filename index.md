@@ -11,7 +11,7 @@ layout: homealt
 
 ----
 
-*The TASC7/KASC14 workshop will be dedicated to the celebration of the 60th birthday of Hans Kjeldsen, the one of the founders of the Kepler/TESS Asteroseismic Science Consortium.*
+The TASC7/KASC14 workshop will be dedicated to the celebration of the 60th birthday of Hans Kjeldsen, one of the founders of the Kepler/TESS Asteroseismic Science Consortium.
 
 ----
 
@@ -26,11 +26,11 @@ The workshop will take place from 17-21 July 2023 at the University of Hawaiʻi 
   <h4 class="alert-heading">Key dates</h4>
 
   <hr>
-  <p>May 1 2023: Deadline for student registration waiver applications & on-campus housing requests</p>
-  <p> May 15 2023: Deadline for contributed talk abstracts & Early registration payment closes </p>
-  <p>June 15 2023: Deadline for poster abstracts & Standard registration payment closes</p>
-  <p>July 3 2023: Late registration payment & online-only registration closes</p>
-<p>July 17-21 2023: TASC7/KASC14 workshop</p>
+  <p><b>May 1 2023:</b> Deadline for student registration waiver applications & on-campus housing requests</p>
+  <p><b>May 15 2023:</b> Deadline for contributed talk abstracts & Early registration payment closes </p>
+  <p><b>June 15 2023:</b> Deadline for poster abstracts & Standard registration payment closes</p>
+  <p><b>July 3 2023:</b> Late registration payment & online-only registration closes</p>
+<p><b>July 17-21 2023:</b> TASC7/KASC14 workshop</p>
   <hr>
 </div>
 
