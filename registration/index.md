@@ -49,7 +49,7 @@ Online participation is free but registration is required to participate online.
 
 ##  Payment
 
-<table bgcolor="#cccccc" cellpadding="5" border="0"><tr><td>
+<table bgcolor="#cccccc" cellpadding="5" border="0"><tbody><tr><td>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type="hidden" name="cmd" value="_s-xclick">
   <input type="hidden" name="hosted_button_id" value="KAL4TZNLX2R8S">
