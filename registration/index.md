@@ -62,7 +62,7 @@ Online participation is free but registration is required to participate online.
     <tr><td><input type="hidden" name="on1" value="Participant Name"><font face="Arial"><b>Participant Name</b></font></td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
   </tbody></table>
   <input type="hidden" name="currency_code" value="USD">
-  <!-- <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit"> -->
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit">
   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 </td></tr></tbody></table>
