@@ -13,9 +13,8 @@ map: true
     - [Reception and dinner venues](#reception-and-dinner-venues)
   - [Accomodation](#accomodation)
     - [On-campus housing](#on-campus-housing)
-    - [Reserving on-campus housing](#reserving-on-campus-housing)
-    - [Cancellation policy](#cancellation-policy)
-    - [Booking after May 12](#booking-after-may-12)
+    - [Requesting conference-reserved on-campus housing](#reserving-on-campus-housing)
+    - [Booking non-conference on-campus housing ](#booking-after-may-12)
     - [Hotel accomodation](#hotel-accomodation)
 
 
@@ -27,47 +26,47 @@ The conference will take place in Honolulu on the island of Oʻahu, Hawaiʻi, US
 <iframe src="https://www.google.com/maps/d/embed?mid=13LWnvT8zkbY4WSDMza18WIhqpRAVVvw&ehbc=2E312F" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ### Conference venue
-Talks will be held in the 300-seat auditorium of Department of Art and Art History (Room ART132) at the University of Hawaiʻi (UH) at Mānoa. Posters, coffee breaks and lunch will be held on the second floor of the nearby campus center. UH Mānoa campus has numerous outdoor seating areas, which can be freely used for informal meetings, lunch and coffee. Participants requiring dedicated breakout rooms should contact the LOC.
+Talks will be held in the 300-seat auditorium of Department of Art and Art History (Room ART132) at the University of Hawaiʻi (UH) at Mānoa. Posters, coffee breaks and lunch will be held on the second floor of the nearby campus center. UH Mānoa campus has numerous outdoor seating areas, which can be freely used for informal meetings, lunch and coffee. Participants requiring dedicated breakout rooms should contact the LOC (tasc7@hawaii.edu).
 
 ### Air travel
 Conference participants should plan to travel to Daniel K. Inouye International Airport (HNL).  The airport is approximately 8 miles or 12 kilometers from UH Mānoa and Waikīkī. Typical taxi or rideshare fares from the airport to the city range between $20-$40.
 
-Participants requiring supporting letters for a visa to enter the United States of America should contact the LOC. 
+Participants requiring supporting letters for a visa to enter the United States of America should contact the LOC (tasc7@hawaii.edu). 
 
 ### Reception and dinner venues
-The Sunday reception will be held at the Institute for Astronomy at UH Mānoa. The Monday reception and conference dinner venues will be within the Honolulu metropolitan area.
+The Sunday reception will be held at the Institute for Astronomy at UH Mānoa. The Monday reception and conference dinner venues will be within the Honolulu  area.
 
 ----
 ## Accomodation
+
 ### On-campus housing
-On campus housing is available at the Lincoln Hall at East-West Center (EWC). Campus housing is within a few minutes walk from the conference venue. Please be aware that this is inexpensive (for Hawaiʻi), no-frills accommodation and that the rooms are not air conditioned. Temperatures in Honolulu in July can reach ~87F/30C, but the island often has strong breezes (many personal residences in the valley have no A/C or heating at all!).
-
-On-campus housing must be booked no later than May 12, 2023. Attendees looking to stay on campus housing must pay a 2 night room security deposit by this deadline to hold a room (see registration for details].
+On campus housing is available at the [Lincoln Hall at East-West Center (EWC)](https://www.eastwestcenter.org/campus/housing/housing-facilities/lincoln-hall). Lincoln Hall is within a few minutes walk from the conference venue. Please be aware that this is inexpensive (for Hawaiʻi), no-frills accommodation and that the rooms are not air conditioned. Temperatures in Honolulu in July can reach ~87F/30C, but the island often has strong breezes (many personal residences in the valley have no A/C or heating at all!).
 
 
-### Reserving on-campus housing
+### Requesting conference-reserved on-campus housing
+On-campus housing reserved by conference must be requested through an online form and will be allocated on a first-come, first-served basis. Attendees who apply for on-campus housing must pay a 2 night room security deposit to hold a room. 
 
 The conference has reserved:
 
-20 [Lincoln Hall](https://www.eastwestcenter.org/campus/housing/housing-facilities/lincoln-hall) studios @ $77/night/double occupancy
+20 [Studios](https://www.eastwestcenter.org/sites/default/files/2022-11/LincolnHall_Diagram_Studio.pdf) (Double Bed): $77/night
 
-8 [Lincoln Hall](https://www.eastwestcenter.org/campus/housing/housing-facilities/lincoln-hall) corners @ $95/night/double occupancy
+8 [Corner Studios](https://www.eastwestcenter.org/sites/default/files/2022-11/LincolnHall_Diagram_CornerStudio.pdf) (Two Double Beds): $95/night
 
-10 [Lincoln Hall](https://www.eastwestcenter.org/campus/housing/housing-facilities/lincoln-hall) kitchens @ $111/night/double occupancy
+10 [Kitchen Units](https://www.eastwestcenter.org/sites/default/files/2022-11/LincolnHall_Diagram_Kitchen.pdf) (Queen bed): $111/night
 
-Arrival: 15/07/2023, Departure 22/07/2023
+Arrival Date: 15/07/2023
+Departure Date:  22/07/2023
 
-Extended dates may be available on request, please contact housing@eastwestcenter.org
+Extended dates may be available on request.
+
+If you cancel rooms within 30-59 days of your visit, the cancellation charge is one night’s fee, if under 30 days from the visit, the charge is 2 nights. 2 nights of housing are paid upfront as a security deposit, and the rest of your visit will be paid upon arrival at East-West Center. 
+
+INSERT LINK TO ON-CAMPUS APPLICATION FORM HERE
 
 
-### Cancellation policy
+### Booking non-conference on-campus housing 
 
-If you cancel rooms at the EWC within 30-59 days of your visit, the cancellation charge is one night’s fee, if under 30 days from the visit, the charge is 2 nights. 2 nights of housing are paid upfront as a security deposit, and the rest of your visit will be paid upon arrival at East-West Center. 
-
-
-### Booking after May 12
-
-You can book your own rooms through East-West Center if you are making plans later than the May 12th deadline, but be aware that rooms are first come first serve and not guaranteed. To do so, please contact: 
+You can book your own rooms through East-West Center. However, be aware that rooms are not guaranteed and rates may change compared to the conference-resevred block described above. To book your rooms independently, please contact: 
 
 East-West Center Housing
 
