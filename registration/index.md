@@ -20,34 +20,34 @@ layout: default
 ----
 
 ## Registration Fees
-***Early Registration*** (Before May 12): $300
 
-***Standard Registration*** (May 13-June 15): $350
-
-***Late Registration*** (June 16-July 10): $400
-
-***Dinner ticket*** (for accompanying guests): $100
+- ***Early Registration*** (Before May 12): $300  
+- ***Standard Registration*** (May 13-June 15): $350  
+- ***Late Registration*** (June 16-July 10): $400  
+- ***Dinner ticket*** (for accompanying guests): $100
 
 The in-person registration fee includes receptions, coffee breaks, lunches, and the conference dinner. Dinner tickets for accompanying guests can be added to the registration fee. Online participation is free.
 
-**Accommodation is not included in the registration fee.** A limited block of on-campus housing has been allocated for conference attendees. See the housing page ADD LINK for more details. 
+**Accommodation is not included in the registration fee.** A limited block of on-campus housing has been allocated for conference attendees. See the [housing page](/logistics/#accomodation) for more details. 
 
 Full payment of the registration fee is required prior to the start of the conference for on-site participation. 
 
 ## Financial support
-
 
 A limited number of registration fee waivers are available for students, sponsored by the University of Hawaiʻi and White Dwarf Research Corporation. To be eligible, students must currently be enrolled in a PhD program and present a result (poster or talk) at the conference. 
 
 <button type="button" class="btn btn-primary" href="https://forms.office.com/r/1eqCi4UfaD">Apply for financial support</button>
 
 ## Cancellation policy
-Cancellation requests must be submitted via email to the LOC (tasc7@hawaii.edu). Full refunds for registration fees will be provided for cancellations received before July 3 2023. Refunds after July 3 may considered on a case-by-case basis. The cancellation policy for on-campus housing can be found on the Logistics ADD LINK page.   
+
+Cancellation requests must be submitted via email to the LOC (<tasc7@hawaii.edu>). Full refunds for registration fees will be provided for cancellations received before July 3 2023. Refunds after July 3 may considered on a case-by-case basis. The cancellation policy for on-campus housing can be found on the [Logistics](/logistics/#accomodation) page.   
 
 ## Online participation
+
 Online participation is free but registration is required to participate online. Online participants can submit both contributed talk and poster abstracts. A Slack/Discord workspace will be setup for online interactions and Q&A. In-person talks from the auditorium will be streamed live for online participants.   
 
 ##  Payment
+
 <table bgcolor="#cccccc" cellpadding="5" border="0"><tr><td>
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type="hidden" name="cmd" value="_s-xclick">
