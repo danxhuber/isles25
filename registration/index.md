@@ -5,6 +5,7 @@ layout: default
 # Registration
 ----
 
+<a href="https://forms.office.com/r/WieQBNy0dV" class="btn btn-primary btn-lg" role="button">Registration and abstract submission</a>
 
 
 
@@ -23,7 +24,7 @@ layout: default
 
 - ***Early Registration*** (Before May 15): $300  
 - ***Standard Registration*** (May 16-June 15): $350  
-- ***Late Registration*** (June 16-July 10): $400  
+- ***Late Registration*** (June 16-July 3): $400  
 - ***Dinner ticket*** (for accompanying guests): $100
 
 The in-person registration fee includes receptions, coffee breaks, lunches, and the conference dinner. Dinner tickets for accompanying guests can be added to the registration fee. Online participation is free.
@@ -36,7 +37,7 @@ Full payment of the registration fee is required prior to the start of the confe
 
 A limited number of registration fee waivers are available for students, sponsored by the University of Hawaiʻi and White Dwarf Research Corporation. To be eligible, students must currently be enrolled in a PhD program and present a result (poster or talk) at the conference. 
 
-
+<a href="https://forms.office.com/r/1eqCi4UfaD" class="btn btn-primary" role="button">Apply for financial support</a>
 
 
 ## Cancellation policy
@@ -62,7 +63,7 @@ Online participation is free but registration is required to participate online.
     <tr><td><input type="hidden" name="on1" value="Participant Name"><font face="Arial"><b>Participant Name</b></font></td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
   </tbody></table>
   <input type="hidden" name="currency_code" value="USD">
-  <!-- <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit"> -->
+  <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit">
   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 </td></tr></tbody></table>

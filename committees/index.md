@@ -16,6 +16,7 @@ To contact the organizers, please email <a href="mailto:tasc7@hawaii.edu">tasc7@
 - Andrea Miglio (University of Bologna)
 - May Gade Pedersen (University of Sydney)
 - Jennifer van Saders (UH, Co-chair)
+- Kevin Schlaufman (John’s Hopkins University)
 
 ### LOC
 

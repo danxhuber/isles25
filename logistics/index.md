@@ -68,6 +68,9 @@ If you cancel rooms within 30-59 days of your visit, the cancellation charge is 
 
 To apply for the reserved on-campus housing, complete the form below. Payment will be requested at a later date.
 
+<a href="https://forms.office.com/r/PaprQdDmrX" class="btn btn-primary" role="button">Apply for on-campus housing</a>
+
+
 ### Booking non-conference on-campus housing 
 
 You can book your own rooms through East-West Center. However, be aware that rooms are not guaranteed and rates may change compared to the conference-reserved block described above. To book your rooms independently, please contact: 
