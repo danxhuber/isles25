@@ -76,6 +76,8 @@ conference:
         relative_url: /program/
       - name: Committees
         relative_url: /committees/
+      - name: Code of conduct
+        relative_url: /coc/
       # - name: Talks
       #   relative_url: /talks/
       # - name: Speakers
