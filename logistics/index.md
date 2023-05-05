@@ -66,10 +66,12 @@ Extended dates may be available on request.
 
 If you cancel rooms within 30-59 days of your visit, the cancellation charge is one night’s fee, if under 30 days from the visit, the charge is 2 nights. 2 nights of housing are paid upfront as a security deposit, and the rest of your visit will be paid upon arrival at East-West Center. 
 
+**Requests for conference-reserved on-campus housing are now closed.**
+
+<!---
 To apply for the reserved on-campus housing, complete the form below. Payment will be requested at a later date.
-
 <a href="https://forms.office.com/r/PaprQdDmrX" class="btn btn-primary" role="button">Apply for on-campus housing</a>
-
+-->
 
 ### Booking non-conference on-campus housing 
 
