@@ -37,8 +37,11 @@ Full payment of the registration fee is required prior to the start of the confe
 
 A limited number of registration fee waivers are available for students, sponsored by the University of Hawaiʻi and White Dwarf Research Corporation. To be eligible, students must currently be enrolled in a PhD program and present a result (poster or talk) at the conference. 
 
-<a href="https://forms.office.com/r/1eqCi4UfaD" class="btn btn-primary" role="button">Apply for financial support</a>
+**Applications for financial support are now closed.**
 
+<!---
+<a href="https://forms.office.com/r/1eqCi4UfaD" class="btn btn-primary" role="button">Apply for financial support</a>
+-->
 
 ## Cancellation policy
 
