@@ -74,9 +74,7 @@ conference:
         relative_url: /registration/
       - name: Program
         relative_url: /program/
-      - name: Committees
-        relative_url: /committees/
-      - name: Code of conduct
+      - name: Code of Conduct
         relative_url: /coc/
       # - name: Talks
       #   relative_url: /talks/
@@ -114,8 +112,8 @@ conference:
         relative_url: /registration/
       - name: Program
         relative_url: /program/
-      - name: Committees
-        relative_url: /committees/
+      - name: Code of Conduct
+        relative_url: /coc/
 
   # Information boxes
   # info_bars:
