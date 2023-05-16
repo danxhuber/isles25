@@ -2,6 +2,26 @@
 layout: program
 ---
 
+Confirmed invited speakers include:
+
+- Keaton Bell (Queens College CUNY)
+
+- Nora Eisner (CCA/Flatiron Institute)
+
+- Daniel Holdsworth (University of Central Lancashire)
+
+- Hans Kjeldsen (Aarhus University)
+
+- Leinani Lozi (TMT & ʻOhana Kilo Hōkū)
+
+- László Molnar (Konkoly Observatory)
+
+- George Ricker (MIT)
+
+- Joel Ong (University of Hawaiʻi)
+
+- Gail Zasowski (University of Utah)
+
 <!-- <iframe src="https://calendar.google.com/calendar/embed?src=tasc7%40hawaii.edu&ctz=Pacific%2FHonolulu" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
 
 <!-- ## Program -->
