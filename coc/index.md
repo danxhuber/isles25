@@ -1,8 +1,14 @@
 ---
 layout: page
+title: Code of conduct
 ---
 
-# Code of Conduct
+- [Conduct](#conduct)
+- [Definition of harassment](#definition-of-harassment)
+
+----
+
+## Conduct
 
 The organizers are committed to making this conference a productive, enjoyable and safe environment for everyone, regardless of ethnic origin, citizenship, language, gender, sexual orientation, disability, physical appearance, body size, race, age or religion. We will not tolerate harassment of participants in any form. We ask that all participants follow the following expected standards of behavior:
 

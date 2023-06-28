@@ -1,25 +1,34 @@
 ---
 layout: default
+title: Registration
 ---
 
-# Registration
+
+
+
+- [Payment for in-person registration](#payment-for-in-person-registration)
+- [Registration Fees](#registration-fees)
+- [Financial support](#financial-support)
+- [Cancellation policy](#cancellation-policy)
+- [Online participation](#online-participation)
+
 ----
 
 <a href="https://forms.office.com/r/WieQBNy0dV" class="btn btn-primary btn-lg" role="button">Registration and abstract submission</a>
 
 ##  Payment for in-person registration
 
-<table bgcolor="#cccccc" cellpadding="5" border="0"><tbody><tr><td>
+<table bgcolor="#cccccc" cellpadding="5" border="0"><tbody><tr><td align="center">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type="hidden" name="cmd" value="_s-xclick">
   <input type="hidden" name="hosted_button_id" value="KAL4TZNLX2R8S">
   <table>
-    <tbody><tr><td><input type="hidden" name="on0" value="Early Registration"><font face="Arial"><b>Early Registration</b></font></td></tr><tr><td><select name="os0">
-	  <option value="Registration Fee">Registration Fee (includes dinner) $300.00 USD</option>
-	  <option value="Registration +1 Dinner">Registration + Dinner for Accompanying Guest $400.00 USD</option>
+    <tbody><tr><td><input type="hidden" name="on0" value="Late Registration"><font face="Arial"><b>Late Registration</b></font></td></tr><tr><td><select name="os0">
+	  <option value="Registration Fee">Registration Fee (includes dinner) $400.00 USD</option>
+	  <option value="Registration +1 Dinner">Registration + Dinner for accompanying guest $500.00 USD</option>
 	  <option value="Dinner ticket only">Dinner ticket only $100.00 USD</option>
     </select> </td></tr>
-    <tr><td><input type="hidden" name="on1" value="Participant Name"><font face="Arial"><b>Participant Name</b></font></td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
+    <tr><td><input type="hidden" name="on1" value="Participant Name"><font face="Arial"><b>Participant Name</b></font></td></tr><tr><td><input type="text" name="os1" size="26" maxlength="200"></td></tr>
   </tbody></table>
   <input type="hidden" name="currency_code" value="USD">
   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit">
@@ -27,24 +36,11 @@ layout: default
 </form>
 </td></tr></tbody></table>
 
-
-
-----
-
-- [Registration](#registration)
-  - [Payment for in-person registration](#payment-for-in-person-registration)
-  - [Registration Fees](#registration-fees)
-  - [Financial support](#financial-support)
-  - [Cancellation policy](#cancellation-policy)
-  - [Online participation](#online-participation)
-
-----
-
 ## Registration Fees
 
 - ***Early Registration*** (Before May 15): $300  
-- ***Standard Registration*** (May 16-June 15): $350  
-- ***Late Registration*** (June 16-July 3): $400  
+- ***Standard Registration*** (May 16-June 22): $350  
+- ***Late Registration*** (June 23-July 3): $400  
 - ***Dinner ticket*** (for accompanying guests): $100
 
 The in-person registration fee includes receptions, coffee breaks, lunches, and the conference dinner. Dinner tickets for accompanying guests can be added to the registration fee. Online participation is free.

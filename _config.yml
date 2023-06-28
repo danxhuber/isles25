@@ -74,6 +74,8 @@ conference:
         relative_url: /registration/
       - name: Program
         relative_url: /program/
+      - name: Tourism
+        relative_url: /tourism/
       - name: Committees
         relative_url: /committees/
       - name: Code of conduct
@@ -118,12 +120,12 @@ conference:
         relative_url: /committees/
 
   # Information boxes
-  # info_bars:
-  #   - title: Registration is now open!
-  #     color: primary
-  #     main_only: true
-  #     text: |
-  #       We are pleased to announce that registration for TASC7 is now active. Please carefully read the information on the registration page for instructions on abstract submission, payment, and accomodation.
+  info_bars:
+    - title: Registration is now open!
+      color: primary
+      main_only: true
+      text: |
+        We are pleased to announce that registration for TASC7 is now active. Please carefully read the information on the registration page for instructions on abstract submission, payment, and accomodation.
 
   # Live indications
   live:

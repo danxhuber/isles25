@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Committees
 ---
 
 To contact the organizers, please email <a href="mailto:tasc7@hawaii.edu">tasc7@hawaii.edu</a>

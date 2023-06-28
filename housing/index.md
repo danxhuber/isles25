@@ -1,13 +1,14 @@
 ---
 layout: default
 map: false
+title: Housing
 ---
 
 # Housing deposit
 ----
 
 - [Housing deposit](#housing-deposit)
-  - [Payment](#payment)
+	- [Payment](#payment)
 
 
 ----
