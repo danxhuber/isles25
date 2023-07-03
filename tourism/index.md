@@ -36,6 +36,11 @@ title: Tourism
   - [Fresh Catch on Kapahulu](#fresh-catch-on-kapahulu)
   - [Giovanni’s Shrimp Truck](#giovannis-shrimp-truck)
 
+# Points of interest
+
+An interactive map with key conference locations and other points of interest can be found below.
+
+<iframe src="https://www.google.com/maps/d/embed?mid=13LWnvT8zkbY4WSDMza18WIhqpRAVVvw&ehbc=2E312F" width="100%" height="500" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 # Attractions
 

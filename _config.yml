@@ -74,6 +74,8 @@ conference:
         relative_url: /registration/
       - name: Program
         relative_url: /program/
+      # - name: Locations
+      #   relative_url: /location/
       - name: Tourism
         relative_url: /tourism/
       - name: Committees
@@ -84,8 +86,6 @@ conference:
       #   relative_url: /talks/
       # - name: Speakers
       #   relative_url: /speakers/
-      # - name: Location
-      #   relative_url: /location/
       - name: Previous meetings
         menu:
           - name: 2023 (current)
@@ -176,9 +176,9 @@ conference:
     # URL of location / room overview page
     url: '/location'
     # Main page title shown on location/room navigation bar
-    navbar_title: 'Location'
+    navbar_title: 'Locations'
     # Show map on location main page
-    map: true
+    map: false
 
   program:
     # URL of program page
