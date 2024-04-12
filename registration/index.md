@@ -6,19 +6,18 @@ title: Registration
 
 
 
-- [Payment for in-person registration](#payment-for-in-person-registration)
 - [Registration Fees](#registration-fees)
 - [Financial support](#financial-support)
 - [Cancellation policy](#cancellation-policy)
 - [Online participation](#online-participation)
 
 ----
+<!-- 
+<a href="https://forms.office.com/r/WieQBNy0dV" class="btn btn-primary btn-lg" role="button">Registration and abstract submission</a> -->
 
-<a href="https://forms.office.com/r/WieQBNy0dV" class="btn btn-primary btn-lg" role="button">Registration and abstract submission</a>
+<!-- ##  Payment for in-person registration -->
 
-##  Payment for in-person registration
-
-<table bgcolor="#cccccc" cellpadding="5" border="0"><tbody><tr><td align="center">
+<!-- <table bgcolor="#cccccc" cellpadding="5" border="0"><tbody><tr><td align="center">
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
   <input type="hidden" name="cmd" value="_s-xclick">
   <input type="hidden" name="hosted_button_id" value="KAL4TZNLX2R8S">
@@ -34,7 +33,7 @@ title: Registration
   <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit">
   <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
-</td></tr></tbody></table>
+</td></tr></tbody></table> -->
 
 ## Registration Fees
 

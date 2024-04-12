@@ -120,12 +120,12 @@ conference:
         relative_url: /committees/
 
   # Information boxes
-  info_bars:
-    - title: Registration is now open!
-      color: primary
-      main_only: true
-      text: |
-        We are pleased to announce that registration for TASC7 is now active. Please carefully read the information on the registration page for instructions on abstract submission, payment, and accomodation.
+  # info_bars:
+  #   - title: Registration is now closed
+  #     color: info
+  #     main_only: true
+  #     text: |
+  #       Registration is now closed. Please carefully read the instructions on the logistics page for details concerning posters and talks.
 
   # Live indications
   live:

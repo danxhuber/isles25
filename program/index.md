@@ -17,7 +17,7 @@ title: Program
 
 A PDF version of the program for oral talks can be downloaded by clicking on the image below.
 
-[<img src="schedule.png">](TASC7-KASC14-Schedule-June30.pdf)
+[<img src="schedule.png">](TASC7-KASC14-Schedule-July16.pdf)
 
 #### Program book
 

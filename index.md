@@ -1,8 +1,8 @@
 ---
 layout: homealt
 ---
-
-<img src="assets/images/banner-2.png" width="100%" class="rounded-top"/>
+## Mahalo nui loa to all participants of TASC7/KASC14!
+<img src="assets/images/TASC7-Group.JPG" width="100%" class="rounded-top"/>
 
 
 <div class="alert alert-info" role="alert">
@@ -12,7 +12,7 @@ layout: homealt
   <s><p><b>May 1 2023:</b> Deadline for student registration waiver applications & on-campus housing requests</p></s>
   <s><p><b>May 15 2023:</b> Deadline for contributed talk abstracts & Early registration payment closes </p></s>
   <s><p><b>June 22 2023:</b> Deadline for poster abstracts & Standard registration payment closes</p></s>
-  <p><b>July 3 2023:</b> Late registration payment & online-only registration closes</p>
+  <s><p><b>July 3 2023:</b> Late registration payment & online-only registration closes</p></s>
 <p><b>July 17-21 2023:</b> TASC7/KASC14 workshop</p>
   <hr>
 </div>
