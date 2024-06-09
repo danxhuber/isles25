@@ -1,11 +1,11 @@
 ---
 layout: homealt
 ---
-## Mahalo nui loa to all participants of TASC7/KASC14!
-<img src="assets/images/TASC7-Group.JPG" width="100%" class="rounded-top"/>
+<!-- ## Mahalo nui loa to all participants of TASC7/KASC14! -->
+<img src="assets/images/announce.png" width="100%" class="rounded-top"/>
 
 
-<div class="alert alert-info" role="alert">
+<!-- <div class="alert alert-info" role="alert">
   <h4 class="alert-heading">Key dates</h4>
 
   <hr>
@@ -15,7 +15,7 @@ layout: homealt
   <s><p><b>July 3 2023:</b> Late registration payment & online-only registration closes</p></s>
 <p><b>July 17-21 2023:</b> TASC7/KASC14 workshop</p>
   <hr>
-</div>
+</div> 
 
 ----
 
@@ -29,13 +29,11 @@ The workshop will take place from 17-21 July 2023 at the University of Hawaiʻi 
 
 The TASC7/KASC14 workshop will be dedicated to the celebration of the 60th birthday of Hans Kjeldsen, one of the founders of the Kepler/TESS Asteroseismic Science Consortium.
 
-----
+---- -->
 
  <!-- &nbsp; -->
 
 
 
 
-#### Contact
-
-To contact the LOC, please email <a href="mailto:tasc7@hawaii.edu">tasc7@hawaii.edu</a>
+Further details to be announced soon. To contact the organizers, please email <a href="mailto:isles25@hawaii.edu">isles25@hawaii.edu</a>

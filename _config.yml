@@ -1,8 +1,8 @@
-title: TASC7/KASC14
+title: ISLES25
 preposition: at
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://tasc.ifa.hawaii.edu/" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://isles25.ifa.hawaii.edu/" # the base hostname & protocol for your site, e.g. https://example.com
 
 theme: jekyll-theme-conference
 
@@ -60,13 +60,17 @@ conference:
   # Navigation bar
   navigation:
     logo:
-      name: IFA
-      img: 'logo.png'
-      url: 'https://ifa.hawaii.edu/'
-    logo2:
-      name: WDRC
-      img: 'wdrc.png'
-      url: 'https://whitedwarf.org/'
+#      name: SOEST
+#      img: 'soest.png'
+#      url: 'https://ifa.hawaii.edu/'
+#    logo2:
+#      name: IFA
+#      img: 'logo.png'
+#      url: 'https://ifa.hawaii.edu/'
+#    logo3:
+#      name: IAC
+#      img: 'iac.png'
+#      url: 'https://ifa.hawaii.edu/'
     links:
       - name: Logistics
         relative_url: /logistics/
@@ -78,7 +82,7 @@ conference:
       #   relative_url: /location/
       - name: Tourism
         relative_url: /tourism/
-      - name: Committees
+      - name: Organizers
         relative_url: /committees/
       - name: Code of conduct
         relative_url: /coc/
@@ -86,21 +90,21 @@ conference:
       #   relative_url: /talks/
       # - name: Speakers
       #   relative_url: /speakers/
-      - name: Previous meetings
-        menu:
-          - name: 2023 (current)
-            disabled: true
-          - name: 2022
-            absolute_url: "https://fys.kuleuven.be/ster/events/conferences/2020/tasc6"
-          - name: 2019
-            absolute_url: "https://web.mit.edu/tasc5/registration.html"
-          - name: 2018
-            absolute_url: "https://conferences.au.dk/tasc4"
+      #- name: Previous meetings
+      #  menu:
+      #    - name: 2023 (current)
+      #      disabled: true
+      #    - name: 2022
+      #      absolute_url: "https://fys.kuleuven.be/ster/events/conferences/2020/tasc6"
+      #    - name: 2019
+      #      absolute_url: "https://web.mit.edu/tasc5/registration.html"
+      #    - name: 2018
+      #      absolute_url: "https://conferences.au.dk/tasc4"
 
   # Link Preview for Sharing
   link_preview:
     # also adapt "preposition" property at top for more meaningful descriptions
-    disable: false
+    disable: true
     img:
       twitter: 'twitter_preview.png'      # inside /assets/images/
       open_graph: 'facebook_preview.png'  # inside /assets/images/
@@ -109,15 +113,15 @@ conference:
   main:
     # logo:
     #   img: 'logo.png'
-    links:
-      - name: Logistics
-        relative_url: /logistics/
-      - name: Registration
-        relative_url: /registration/
-      - name: Program
-        relative_url: /program/
-      - name: Committees
-        relative_url: /committees/
+    #links:
+    #  - name: Logistics
+    #    relative_url: /logistics/
+    #  - name: Registration
+    #    relative_url: /registration/
+    #  - name: Program
+    #    relative_url: /program/
+    #  - name: Committees
+    #    relative_url: /committees/
 
   # Information boxes
   # info_bars:
