@@ -1,3 +1,3 @@
-## TASC7/KASC12 conference site
+## ISLES25 conference site
 
-Site for ISLES25. Built on top of [jekyll-theme-conference.](https://github.com/DigitaleGesellschaft/jekyll-theme-conference)
+Website for the 2025 International School for Exoplanet Science. Built on top of [jekyll-theme-conference.](https://github.com/DigitaleGesellschaft/jekyll-theme-conference)
